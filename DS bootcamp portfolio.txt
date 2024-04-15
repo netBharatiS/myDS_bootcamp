@@ -1,0 +1,71 @@
+https://www.hyperiondev.com/portfolio/BS23110011779/
+
+Skills Bootcamp in Data Science (Fundamentals)
+TASK	STATUS
+SCORE
+Task 1 - Your First Computer Program and Using Variables	
+View report
+100
+Task 2 - The String and Numerical Data Type	
+View report
+100
+Task 3 - Control Structures - If, Elif, Else and the Boolean Data type	
+View report
+100
+Task 4 - Logical Programming - Operators	
+View report
+100
+Task 5 - Capstone Project - Variables and Control Structures	
+View report
+100
+Task 6 - Build Your Brand 01 - Career Goals	
+View report
+100
+Task 7 - Control Structures - While Loop	
+View report
+81
+Task 8 - Control Structures - For Loops	
+View report
+100
+Task 9 - Defensive Programming - Error Handling	
+View report
+100
+Task 10 - Build Your Brand 02 - LinkedIn, CV, and Cover Letter	
+View report
+77
+Task 11 - String Handling	
+View report
+100
+Task 12 - Data Structures - Lists and Dictionaries	
+View report
+100
+Task 13 - Build Your Brand 03 - The Job Search	
+View report
+50
+Task 14 - Programming with User-defined Functions	
+View report
+88
+Task 15 - Data Visualisation - Approach and Techniques	
+View report
+88
+Task 16 - Datasets and DataFrames	
+View report
+94
+Task 17 - Machine Learning	
+View report
+100
+Task 18 - Supervised learning - Simple Linear Regression	
+View report
+100
+Task 19 - Natural Language Processing	
+View report
+100
+Task 20 - NLP - Semantic Similarity	In progress	N/A
+Task 21 - Capstone Project - NLP Applications	
+View report
+100
+Task 22 - Build Your Brand 04 - Preparing for Interviews	In progress	N/A
+Task 23 - Version Control and Git	
+View report
+88
+Task 24 - Build Your Brand 05 - Technical Portfolio	In progress	N/A
